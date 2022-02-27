@@ -1,0 +1,561 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The peace-maker: or, Solid reasons, perswading to peace: grounded upon the late Solemn covenant. / By H.B.</title>
+            <author>Burton, Henry, 1578-1648.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78027</idno>
+            <idno type="STC">Wing B6170</idno>
+            <idno type="STC">Thomason E329_5</idno>
+            <idno type="STC">ESTC R200689</idno>
+            <idno type="EEBO-CITATION">99861366</idno>
+            <idno type="PROQUEST">99861366</idno>
+            <idno type="VID">113499</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78027)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113499)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E329[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The peace-maker: or, Solid reasons, perswading to peace: grounded upon the late Solemn covenant. / By H.B.</title>
+                  <author>Burton, Henry, 1578-1648.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, at the Black-spread-Eagle near the west end of Pauls.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>H.B. = Henry Burton.</note>
+                  <note>Annotation on Thomason copy: after H. B: "urton" "March: 23 1645"; the second 6 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643). --  Early works to 1800.</term>
+               <term>Independent churches --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113499:1" rendition="simple:additions"/>
+            <p>The Peace-maker: OR, Solid REASONS, perſwading to PEACE: <hi>Grounded upon the late Solomn Covenant.</hi>
+            </p>
+            <p>
+               <hi>By</hi> H. B.</p>
+            <q>
+               <bibl>ESA. 52. 7.</bibl>
+               <p>How beautifull upon the mountains are the feet of him that bringeth good tidings, that publiſheth Peace, that bring<g ref="char:EOLhyphen"/>eth good tidings of good, that publiſheth ſalvation, that ſaith unto Sion, Thy GOD reigneth.</p>
+            </q>
+            <q>
+               <bibl>ZACH. 8. 19.</bibl>
+               <p>Love the TRVTH, and PEACE.</p>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>Giles Calvert,</hi> at the Black-ſpread-Eagle near the Weſt end of <hi>Pauls.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:113499:2"/>
+            <pb n="1" facs="tcp:113499:2"/>
+            <head>A Pacifique: <hi>OR,</hi> Solid Reaſons perſwading to <hi>Peace<g ref="char:punc">▪</g>
+               </hi> Grounded upon the late ſolemn Covenant.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Weet is the name of <hi>Peace;</hi> but the thing it ſelf, when enjoyed, much more ſweet, and moſt of all<g ref="char:punc">▪</g> after long War, as a Sun-ſhine after a Storm. But <hi>what Peace?</hi> Or with whom? Surely at leaſt a Civill peace, and that with <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll men, if poſſible; ſo far as peace with <hi>men,</hi> breaks not our pe<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e with <hi>God.</hi> Not a peace with <hi>Amaleck<g ref="char:punc">▪</g>
+               </hi> or Antichriſt, with whom the God of Peace will have immortall War. But peace amongſt thoſe, that profeſſe to be the children of peace, and friends to Truth: as all thoſe do, who at this day in City and Country are engaged in the common Cauſe,
+<pb n="2" facs="tcp:113499:3"/>
+againſt the common Enemy. Peace I ſay, even amongſt diſſenting brethren, is that, here aymed at, and deſired.</p>
+            <p>Now the Reaſons perſwading to this peace, are chiefly taken from the late ſolemne Covenant, for Reformation, and for the u<g ref="char:EOLhyphen"/>niting of the three Kingdomes againſt the common enemy: So as unreaſonable it were, for any ſo to ſtrain the genuine ſenſe of the Covenant, as to wring blood out of it, by forcing it beyond its bounds. And therefore for the removing of all Bars obſtructing the way to a ſafe and ſound peace, let us ſeriouſly weigh ſome principall paſſages in the ſaid ſolemn Covenant.</p>
+            <p>The firſt is, <hi>That we ſhall ſincerely really, and conſtantly, through the grace of God, indeavour in our ſeverall places and callings, the preſervation of the Reformed Religion in the Church of</hi> Scotland, <hi>in Doctrine, Worſhip, Diſcipline, and Government, againſt our common Enemies.</hi> True, <hi>Againſt our common Enemies:</hi> And who are they, but the whole faction of Papiſts, the Antichriſtian Adverſary, who ſeek to deſtroy all that Religion, which is termed Proteſtant, and Reformed? Againſt theſe, I ſay, we do by this Covenant oblige our <hi>indeavour to preſerve, &amp;c.</hi> But hereby we do not bind our ſelves to ſet up in <hi>England</hi> the Religion which is in the Church of <hi>Scotland,</hi> as making that a pattern, and a binding Law to us. Surely we never intended any ſuch thing in the taking of it; otherwiſe, how could we without diſhonour to God, in<g ref="char:EOLhyphen"/>gage the <hi>Grace of God,</hi> ſaying, <hi>Through the Grace of God.</hi> For we ſhould be a very ungracious and unworthy Nation, without any further caution or proviſo, to tie up our Conſciences to a confor<g ref="char:EOLhyphen"/>mity to anothers <hi>Religion,</hi> (although we may have a charitable o<g ref="char:EOLhyphen"/>pinion of it) before we have firſt examined it in all points, whe<g ref="char:EOLhyphen"/>ther it be according to the Rule. Yea, we did expreſſe thus much, when we took the Covenant. For we hold no Church, nor Nati<g ref="char:EOLhyphen"/>on to be infallible, nor any Church Reformation ſo exact in all points, as to challenge to it ſelf a power to bind other Churches. It is not for a free-born People, eſpecially Chriſts free-born, to ſwear to any ſuch blind obedience. Yea, we ſhould therein ſwear to a groſſe contradiction in our Covenant, where we promiſe to extirpate all Popery, whereof blind obedience is one of the main Pillars, as without which, what were the Papal <hi>Supremacy,</hi> but as a <hi>brutum fulmen,</hi> a buzzing Bee without a ſting? And yet
+<pb n="3" facs="tcp:113499:3"/>
+we may ſee, into what an inextricable Labyrinth this one blind miſconceit would lead us, through the groſſe and intollerable mi<g ref="char:EOLhyphen"/>ſtake of this firſt paſſage in our Covenant. In ſo much, as <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this miſerable miſtak<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be not the more ſpeedily corrected and cured, it threatens at this very time utter ruine to ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> City and Country. Good God! What's become of ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> common prud<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:punc">▪</g> not to ſee our danger, through importune haſte to <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>o our ſelves? O<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ver let it be verified of <hi>England,</hi> of <hi>London,</hi> propheſied long ago<g ref="char:punc">▪</g> (Eſay 29. 14.) <hi>B<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> will proc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed to do a marrvellous work a<g ref="char:EOLhyphen"/>mongst this People, even a marvellous work and a wonder. For the wiſdome of their wiſe men ſhall periſh, and the underſtanding of the prudent men ſhall be hid.</hi> And wherefore? Therefore, ſaith the Lord there, Even becauſe (ver. 13.) <hi>This People draw near me with their mouth, and with their lips do honour me but have re<g ref="char:EOLhyphen"/>moved their heart far from me, and their feare toward me is taught by the precept of men: Therefore, &amp;c.</hi> Read the word and apply it. We ſwear to a Reformation in Religion. What? Whoſe? O you worthy Senate of <hi>London,</hi> heare, and feare, and be wiſe. Remember you are <hi>Engliſh</hi> bred, nay (I hop<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) Heaven-bre<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Subject not your Conſciences to men<g ref="char:punc">▪</g> for he that is Lord over the Conſcience is Lord over all. We love our neighbours the <hi>Scots,</hi> as they have deſerved, and we are ready upon occaſion to defend them againſt the common Enemy, according to our Covenant: but all muſt be <hi>uſque ad aras,</hi> not to ſubject our Conſciences to them. Therefore, my good hearts, let not any ſpirit of errour poſ<g ref="char:EOLhyphen"/>ſefle you. And let not the Crown of Honour, which God <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th put upon <hi>London,</hi> in uſing you as inſtruments to reſcue this King<g ref="char:EOLhyphen"/>dome, be now caſt in the <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. The Parliament loves and honours you: ſo do you it. Let none divide between you. Wait upon God in all your deſires, who hath hitherto <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ouſly appeared for the Parliament both in Providence, and Power<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Gods ti<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is, and what ſeems good unto his Wiſdo<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:punc">▪</g> you ſh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll obtaine of him above your deſires. And aſſure your <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> through our diſ<g ref="char:EOLhyphen"/>unions the Parliament ſhould miſcarry in the <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> C<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e in hand, not all <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ſt profeſſed friends in the world <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> us from periſhing. It was a bad ſign to <hi>Jeruſalem,</hi> when it was ſaid, <hi>A</hi>
+               <note place="margin">Jer. 5. 31.</note> 
+               <hi>wonderfull and horrible thing is committed in the L<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d<g ref="char:punc">▪</g> The P<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>phets prophecie fa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt, and the Prieſts bear rule by their means, and
+<pb n="4" facs="tcp:113499:4"/>
+my People love to have it ſo: And what will you do in the end thereof?</hi> The Lord deliver this City from all ſuch ſad preſages.</p>
+            <p>But I paſſe to the ſecond main Paſſage in the Covenant. <hi>The Reformation of Religion in the Kingdome of</hi> England <hi>and</hi> Ireland, <hi>in Doctrine, Worſhip, Diſcipline, and Government,</hi> ACCORD<g ref="char:EOLhyphen"/>ING TO THE WORD OF GOD. Here is ſet down the ſole and ſuprame Rule of Church-Reformation. THE WORD OF GOD. That this is the ſole Rule, we all a<g ref="char:EOLhyphen"/>gree. So that this muſt be the Touchſtone, to try the Gold, whe<g ref="char:EOLhyphen"/>ther it be as pure for ſubſtance, as in appearance. To this Rule, the Reformation both in <hi>Scotland</hi> and <hi>England,</hi> muſt be reduced. Therefore although we ſhall <hi>endeavour</hi> (as afore) <hi>the preſervation of that Reformed Religion in</hi> Scotland <hi>againſt our common Ene<g ref="char:EOLhyphen"/>mies;</hi> yet we do not binde our ſelves to the erection, and ſo pre<g ref="char:EOLhyphen"/>ſervation of the ſame in <hi>England.</hi>
+            </p>
+            <p>But it is added; <hi>And the example of the beſt Reformed Churches.</hi> Well: but firſt, let it be tryed, which be the <hi>beſt Reformed Churches.</hi> If that of <hi>Scotland</hi> plead for it, we deſire a clear de<g ref="char:EOLhyphen"/>monſtration of it. But why not the Churches of New-<hi>England,</hi> which are of the lateſt Reformation, and therefore likelieſt to be the Beſt? And if the Beſt reformed, we muſt, by our ſolemn Co<g ref="char:EOLhyphen"/>venant, look over rather the great Ocean to New-<hi>England Churches,</hi> than over <hi>Twede</hi> to that in <hi>Scotland.</hi> But indeed ſimply to neither, but in relation to THE WORD OF GOD. Thoſe being the Beſt reformed Churches, which come neareſt to the Rule, THE WORD OF GOD. <hi>To the Law, and</hi>
+               <note place="margin">Eſa. 8. 20.</note> 
+               <hi>to the Teſtimony: if they ſpeak not according to this word, it is, be<g ref="char:EOLhyphen"/>cauſe there is no light in them.</hi> As <hi>Aug.</hi> ſaid to the <hi>Arian: Nei<g ref="char:EOLhyphen"/>ther</hi>
+               <note place="margin">Res cum re, cauſa cum cauſa, ratio cum rati<g ref="char:EOLhyphen"/>one, Scriptura<g ref="char:EOLhyphen"/>ram authorita<g ref="char:EOLhyphen"/>tibus concertet. <hi>Aug.</hi> cont. Ma<g ref="char:EOLhyphen"/>ximinum Arri<g ref="char:EOLhyphen"/>anorum epiſc. lib. 3. c. 14. to. 6.</note> 
+               <hi>do thou alleadge the Councel of Ariminum, nor will I the Councel of Nice: Neither am I bound by the authority of this, nor thou of that: but let thing with thing, cauſe with cauſe, reaſon with reaſon contend by Scripture-authorities.</hi>
+            </p>
+            <p>But now all ſides alleadge Scriptures for them: who ſhall judge? Even the Scripture, which remains the ſame ſtill, in the midſt of our differences. And that way of <hi>Reformation</hi> which is pureſt from humane mixtures, and comes cloſeſt home to the Rule, that certainly is the <hi>beſt. So as we have need to prove all things, and</hi>
+               <note place="margin">1 Theſ. 5. 21. Phil. 1. 20.</note> 
+               <hi>hold faſt that which is good;</hi> and to approve the things that are
+<pb n="5" facs="tcp:113499:4"/>
+excellent, above thoſe of inferior rank. And both Scripture and Reaſon teach us, that to depend upon Chriſt, and Scripture only for a right Reformation, is better, than to depend upon humane power and authority. And it is a ſ<gap reason="illegible: blotted" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er and better way to give Chriſt all his honour, than to give any part of it to m<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n. Conſider<g ref="char:EOLhyphen"/>ing<note place="margin">Actum eſt de Religione, ubi vel minimum detrahitur de Dei gloria.</note> that excellent ſaying of <hi>Calvin, Religion is at a loſſe, when never ſo little is taken away from Gods glory.</hi> Again, where there is moſt of Chriſt, and leaſt of the world, where moſt ſelf-deniall and reſolution for Chriſt, in daily expoſall to the odium and re<g ref="char:EOLhyphen"/>proach of the world: certainly <gap reason="illegible: blotted" extent="2 letters">
+                  <desc>••</desc>
+               </gap> comes neerer to Chriſts rule, and example, than where the world moſt reigneth. Good there<g ref="char:EOLhyphen"/>fore we ſhould compare theſe things together, and ſee which doth beſt agree with the Rule.</p>
+            <p>And as for <hi>
+                  <g ref="char:V">Ʋ</g>niformity in Religion in the three Kingdomes,</hi> truly that alſo muſt in all things be reduced, and hold conformity to the ſame Rule: <hi>As many as walk according to this Rule, Peace be</hi>
+               <note place="margin">Gal. 6. 16.</note> 
+               <hi>upon them, and mercy and upon the Iſrael of God.</hi> And this <hi>
+                  <g ref="char:V">Ʋ</g>nifor<g ref="char:EOLhyphen"/>mity</hi> is in <hi>ſpirit and truth,</hi> and not in externall forms deviſed and impoſed by men. Much pains is taken for compiling a <hi>Confeſſion of Faith:</hi> O let Chriſt be confeſſed in his three offices, all which the Scripture clearly ſets forth unto us; and <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> let the <hi>Form of Church-Government</hi> hold forth Chriſt as well in his Propheticall and Regal office, as in his Prieſthood. And for <hi>Directory for Wor<g ref="char:EOLhyphen"/>ſhip and Catechiſing;</hi> Sure we are, the Scripture is compleat, which to contract into a ſhort model, is to epitomiſe the globe of the earth and ſea into a ſmall map, where <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> goodly country is not to be found; as one <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, gloried <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> great lands, being brought to a map, he could not find <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of it.</p>
+            <p>2. <hi>For extirpation of Popery, Prelacy, and Prelaticall Church-Government, &amp;c. and all other Eccleſiaſticall O<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> depending on that Hierarchie.</hi> And if ſo, what ſhall become of all th<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe <hi>Eccle<g ref="char:EOLhyphen"/>ſiaſticall Officers</hi> who had, and ſtill have <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> very <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of their Eccleſiaſticall Office <hi>from that Hierarchie,</hi> and <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their Beeing ſtill depending upon, and ſubſiſting in <hi>that Hierarchie?</hi> How is the <hi>Extirpation</hi> hereof <hi>endeavoured?</hi> Where is he that hath renounced his <hi>Order of Prieſthood</hi> received <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>that Hie<g ref="char:EOLhyphen"/>rarchie?</hi> Is this nothing? And as for Schiſme; it is not a ſepa<g ref="char:EOLhyphen"/>ration from all manner of corruptions, and from ſuch congregati<g ref="char:EOLhyphen"/>ons
+<pb n="6" facs="tcp:113499:5"/>
+as have no right of a Church body according to the Goſpel: but a Schiſme is a rending from, or of, a true church (as 1 <hi>Cor.</hi> 11. 18.) framed as a houſe of fit materials, and compacted as an or<g ref="char:EOLhyphen"/>ganical body of living members. And in ſuch a church (if any where) ſound<g ref="char:punc">▪</g> doctrine, &amp; the power of godlineſſe ſhould be found<g ref="char:punc">▪</g> Whereas ſound doctrine; eſpecially of Chriſts kingdome, and of his Kingly office and government over conſciences and churches, where (almoſt) i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it preached, much leſſe practiſed, in many hun<g ref="char:EOLhyphen"/>dreds of Parochial congregations? And for the power of godli<g ref="char:EOLhyphen"/>neſſe, how little of that alſo to be found, either under a Miniſterial conformity, or National uniformity, as we have ſeen by wofull experience?</p>
+            <p>3. And <hi>for mutuall preſerving the Rights and Priviledges of Parliaments, &amp;c.</hi> Never was there greater need, than in theſe our diſtractions, and eſpecially when we ſee <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſuiticall plots creeping forth, diſguiſed under the terms of friendſhip and confederates, with bold compliance to make up a deſtructive fraction and breath as between the Body and Head, that ſo both might become a mi<g ref="char:EOLhyphen"/>ſerable prey both to profeſſed enemies, and falſe friends: The preventing whereof lieth not a little in the power of this noble and famous City, while it cheerfully continueth neceſſary ſupplies, and due encouragemen<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> unto: the Parliament. I remember an Apo<g ref="char:EOLhyphen"/>logue of <hi>Mene<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ius Agrippa,</hi> who in a great defection of the peo<g ref="char:EOLhyphen"/>ple of <hi>Rome</hi> from the <hi>Senat<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> came and told them this: That on a time the Members of the Body conſpired againſt the belly; that they did all labour<g ref="char:punc">▪</g> and all to feed the Belly, which wrought no<g ref="char:EOLhyphen"/>thing at all<g ref="char:punc">▪</g> where<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey concluded to withdraw all ſuſte<g ref="char:EOLhyphen"/>nance from the Belly <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſo to ſtarve <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut within two or three dayes they found their er<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, when the face grew pale, the cheeks thin, the hands feeble, the feet f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ltring, &amp;c. ſo as they ſaw a ne<g ref="char:EOLhyphen"/>ceſſity of providing for the Belly, whoſe office is to digeſt and di<g ref="char:EOLhyphen"/>ſtribute nouriſhment into every part of the Body, without which it could not ſ<gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. And <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>rewith the People was ſo affected, as that they un<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> mo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y retu<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed, and reconciled themſelves to the Senate. It needs no application.</p>
+            <p>
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>4. The nex<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thing in the <hi>Governant</hi> is, <hi>for diſcovery of ſuch as go about to make any faction or parties among the People, contrary
+<pb n="7" facs="tcp:113499:5"/>
+to this League and Covenant, that they may be brought to publike triall, &amp;c.</hi> Much more thoſe, that, under what plauſible pretence ſoever, ſhall go about to undermine the <hi>City,</hi> and to divide it from the <hi>Parliament</hi> and <hi>Armies,</hi> to combine with them to bring to paſſe their deſigne, which what can it be elſe, but <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ruine <hi>Par<g ref="char:EOLhyphen"/>liament, City, Kingdome,</hi> and themſelves too.</p>
+            <p>And 5. and 6. We promiſe, <hi>Not to ſuffer our ſelves directly nor indirectly, by whatſoever combination, perſwaſion, or terror, to be divided from this bleſſed union, or to make defection to the con<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>y part, or to give our ſelves to a det<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtable indifferencie, or neutrality in this Cauſe, &amp;c. But we ſhall reveale and make known, &amp;c.</hi> And therefore much leſſe ſhould we directly or indirectly, by what<g ref="char:EOLhyphen"/>ſoever combination, o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſubtile inſinuation, for feare, or favour from any that carry two faces under one hood, ſuffer the leaſt alienation of our affections, or d<gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>nution of our loyalty to our faithfulleſt and faſteſt friends; who watch, that we may ſleep; and warre, that we may enjoy peace; and lie on the cold ground, while we in our warm beds; and what not?</p>
+            <p>Now all theſe things laid together, and well weighed, what ſ<gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſtand in our way, to ſeparate us one from another, either in affe<g ref="char:EOLhyphen"/>ction, or a mutuall combination, to ſtick cloſe <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gether, and to con<g ref="char:EOLhyphen"/>tribute our utmoſt abilities to the helping on of the common cauſe, to come to a timely perfection in an univerſall fruition of <hi>Truth</hi> and <hi>Peace</hi> in this Kingdome, and ſo in this fa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous City? And for this cauſe, let the dividing termes of <hi>Presbyterian</hi> and <hi>Inde<g ref="char:EOLhyphen"/>pendent</hi> come under an <hi>A<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſtia,</hi> and not once be mentioned a<g ref="char:EOLhyphen"/>mong us; whereof that Noble and Vi<gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>us <hi>Army</hi> gives us a worthy example, where, difference of Opinions though there be, yet there is ſuch an unity and ſymp<gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>y of a<gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ble Affections, as if they were ſo many Member<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> naturall Body, and acted by one Spirit. So as there i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpirit of Peace, in the cl<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of War; bright Sun-beames, in <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Storms; the <hi>LORD of Hoſts,</hi> their <hi>GOD of Con<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </hi> So <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y be ſaid of<note place="margin">Num. 23. 21, 23.</note> them, as once of the camp of Iſrael, <hi>There is no <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> againſt Jacob, nor divination againſt Iſrael: t<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Lord <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> God is with them, and the ſhout of a King is a<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that this ſpirit did thus act among us here at home, by bearing and forbearing one another in love, not withſtanding ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> difference in judgement;
+<pb n="8" facs="tcp:113499:6"/>
+waiting <hi>till God</hi> ſhall <hi>reveale</hi> the ſame truth to thoſe <hi>who are other<g ref="char:EOLhyphen"/>wiſe</hi>
+               <note place="margin">Phil. 3. 15.</note> 
+               <hi>minded.</hi> And let each of us practiſe the counſel of the Holy Ghoſt: <hi>Who is a wiſe man, and endued with knowledge among you,</hi>
+               <note place="margin">Jam. 3. 13.</note> 
+               <hi>Let him ſhow out of a good converſation his works, with meekneſſe of wiſdome.</hi> But if ye have bitter <hi>envying and ſtrife in your hearts, glory not, and lie not againſt the truth. This wiſdome deſcendeth not from above; but is earthly, ſenſuall, deviliſh. For where envy<g ref="char:EOLhyphen"/>ing and ſtrife is, there is confuſion, and every <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> work: But the wiſdome that is from above, is firſt, pure, then peaceable, gentle, and eaſie to be intreated, full of mercy and good fruits, without partiali<g ref="char:EOLhyphen"/>ty, and without hypocriſie; And the fruit of righteouſneſſe is ſown in peace, of them that make peace.</hi>
+            </p>
+            <p>And for the procuring and preſerving us in the <hi>keeping of the unity of the ſpirit, in the bond of peace;</hi> what can be a ſtronger tye than the <hi>ſolemn Covenant,</hi> which was taken to unite the three Kingdomes together in a mutuall ingagement againſt the common adverſary, being taken in that ſenſe only which is bounded by the <hi>Word of God,</hi> without which, whatever Covenant is made, is <hi>ipſo facto</hi> unlawfull and invalid, and ſo doth not bind the conſcience. So as we are to meaſure the mind of our <hi>Covenant</hi> by the <hi>Word of</hi>
+               <note place="margin">Jer. 4. 2.</note> 
+               <hi>God,</hi> which requireth an oath to be taken <hi>in truth, in judgement, and in righteouſneſſe.</hi> And therefore as the making, and taking of this <hi>Covenant</hi> had this main end in it, thereby to glorifie God in a conſcientious obſerving of it for our mutuall good (which is, <hi>in truth,</hi> and <hi>in judgement</hi>) and not to the hurt or prejudice of any, (which is, <hi>in righteouſneſſe</hi>) So the conſtant keeping of it, is the very ground and foundation whereon our peace is firmly built, as on a rock. But if any violence be offered to the true ſenſe of the words, and that ſo a wrong interpretation obtruded upon any mans conſcience, as preſsing either the taking, or the keeping of it in ſuch a ſenſe, as i<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> directly contrary to the Word of God: ſurely thus it is made an o<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſion of the violation of peace, yea and of cauſing and fomenting heart-burnings between brethren, and (<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat which is directly croſſe to the expreſſe meaning of the <hi>Co<g ref="char:EOLhyphen"/>venant,</hi> and quite deſtroyed it) it cuts in ſunder the very knot that ſhould tie the two Kingdoms together inviolably, while ſome would force upon us a confirmity to that <hi>Religion, Worſhip, Church government,</hi> and <hi>Diſcipline,</hi> which is already eſtabliſhed in
+<pb n="9" facs="tcp:113499:6"/>
+the Church of <hi>Scotland.</hi> Which as it is no part of the <hi>Covenant,</hi> bearing no ſuch ſe<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> formerly proved: ſo is it flatly againſt the <hi>Word of God,</hi> and againſt a main principle in Divinity, and of the Law of nature, to force any mans conſcience to a conformity to any platform of Religion ſet up <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>d it in a vio<g ref="char:EOLhyphen"/>lation of the law<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Nations, for <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ſſe and force upon another f<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> State and King<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> law for the <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lating of it in m<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Divine worſhip; yea it is an A<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſtian uſurpation<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: blotted" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſides the unreaſonableneſſe of it in S<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> policie, the uſuall Cynoſure or Pole-ſtar by which the cou<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of Nationall Church-government is ſteered; So as in this conſide<g ref="char:EOLhyphen"/>ration, that which may ſuit with one Nation for Politicall <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> peculiar unto it, will not ſuit with another Nation, as being of a different conſtitution. For inſtance: The Church of <hi>Scotland</hi> hath been formerly en<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d to the Presbyterian Church-Govern<g ref="char:EOLhyphen"/>ment (as they call it) ſo as they have had experience of it, and they can well comply with it generally in <hi>Scotland:</hi> But the <hi>Engliſh</hi> Nation never knew yet to this day (at leaſt by experience) the nature of the Presbyterian Government, and ſo cannot <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> an eſtimate how it may ſort with our <hi>Engliſh</hi> tempers, ſo w<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with the <hi>Scotiſh:</hi> and beſides, there are <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> thouſands in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> who are in their conſciences convinced, and that ſtrongly by the <hi>Word of God,</hi> that there is another kinde of <hi>Church<g ref="char:EOLhyphen"/>government,</hi> and that <hi>Presbyterian</hi> too, properly ſo called, but improperly (as an <hi>improperium) Independent,</hi> which the Scotiſh brethren are ſtrangers unto: And therefore to preſſe the <hi>Scotiſh Presbyterie</hi> upon the State of <hi>England</hi> 
+               <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> poſſibly breed ſome bad blood, and cauſe di<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ers in <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>; and the rather, be<g ref="char:EOLhyphen"/>cauſe God hath appeared to own many of thoſe that are ſo called <hi>(Independents)</hi> for his own peop<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> moſt gracious eye upon them, in crowning them w<hi rend="sup">th</hi> many <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vert<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, &amp; many glorious Victories over their puiſſant <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to whom they are become a terror; As on the other ſi<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>vers of their country, very gracious and amiable in <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> whole Nati<g ref="char:EOLhyphen"/>on, unleſſe of ſuch as have loſt their <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of common humanity; in which reſpect, it w<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> only againſt Divinity, but even againſt <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> policie to force upon ſuch W<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a
+<pb n="10" facs="tcp:113499:7"/>
+Church-government, as their conſci<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ces (being ot<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>w<gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> doctrinated by the Word of Chriſt) <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>y brook. An<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo much the more, in reſpect of one <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>h they hold <hi>That CHRIST is the only King and Law-g<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Conſci<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and Churches,</hi> and not any power on earth w<gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. And ne<g ref="char:EOLhyphen"/>ver did <hi>Chriſt</hi> in theſe<g ref="char:punc">▪</g> later times appears <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>y i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Royall power and ſo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eraig<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry, to any, <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Men, working even wonders by them to ad<gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f this were the very time of the fulfilling of that Prophe<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, where <hi>John</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aven opened, and behold a w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ite horſe, and <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> that ſ<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> him</hi>
+               <note place="margin">Rev. 19.</note> 
+               <hi>called Faithfull and True, who in righteouſneſſe doth judge and <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> war, clothed with a garment dipt in blood, and his name is called</hi> THE WORD OF GOD; <hi>with his Armies fol<g ref="char:EOLhyphen"/>lowing him on white horſes, clothed in <gap reason="illegible" resp="#APEX" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> linnen, white and clean; with his ſharp ſword in his <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Nations, and <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>g them with his iron rod; having on his veſture and thigh <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> written,</hi> THE KING OF KINGS, and LORD OF LORDS. And thus, (as <hi>chap.</hi> 6. 2.) He rides <hi>on his white horſe, conquering, and to conquer.</hi> Now this Prince, and <hi>Lord of Peace himſelf, give <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eace alwayes, by all <gap reason="illegible" resp="#APEX" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>es; even all</hi> that <hi>love the Truth and Peace,</hi> (Zach. <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>) The Lord be with you all, 2 <hi>Theſ.</hi> 3. 16.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
